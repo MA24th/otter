@@ -1,0 +1,6 @@
+# Files
+*.pyc
+
+# Folders
+.idea
+.pytest_cache
